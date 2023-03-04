@@ -1,0 +1,1 @@
+/Users/alekseytikhonov/Desktop/MoneyTransfer/build/classes/kotlin/main/MainKt.class
